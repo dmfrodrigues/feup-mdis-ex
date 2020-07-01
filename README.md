@@ -17,6 +17,16 @@ You can download the installers from [here](https://drive.google.com/drive/folde
 
 `.prf` files are formal proofs, and should be opened with Fitch. `.tt` files are truth tables, and should be opened with Boole.
 
+## Contents
+
+- [Theoretical classes](t)
+- [Theoretical-practical classes](tp)
+- [Tests](tests)
+    - [Test 1](tests/test1)
+    - [Test 2](tests/test2)
+    - [Test 3](tests/test3)
+    - [Test 4](tests/test4)
+
 ## License
 
 © 2020 Diogo Rodrigues
